@@ -1,38 +1,30 @@
-# anaschaima-
-<!-- ملف صفحتي الشخصية على GitHub -->
+Hi, I'm Anas Arabi 👋
 
-<h1 align="center">مرحبا 👋 أنا أنس</h1>
+Computer Science Student | Aspiring Software Engineer
 
-<p align="center">
-مطور مبتدئ أحب الويب والتجارب الجديدة. هذه صفحتي على GitHub — أهلا بك!
-</p>
+I'm a Computer Science student passionate about software development, artificial intelligence, and building practical solutions to real-world problems.
 
----
+I believe in learning by building, understanding the technology behind the tools I use, and continuously improving my engineering skills.
 
-## عني
-- 🔭 حاليًا أعمل على: بناء أول مشاريعي المفتوحة المصدر.
-- 🌱 أتعلم: HTML, CSS, JavaScript (وبعدها React).
-- 🎯 هدفي القريب: نشر موقع شخصي بسيط على GitHub Pages.
-- ⚡ اهتمامات: البرمجة، التصميم، الذكاء الاصطناعي.
+🚀 What I'm Working On
 
-## كيف تتواصل معي
-- 📧 البريد: anasarabi122006@gmail.com
-- 💼 لينكدإن: [linkedin.com/in/yourprofile](#)  
-- 🐦 تويتر: [twitter.com/yourprofile](#)
+- 🌱 Strengthening my programming and problem-solving fundamentals.
+- 💻 Building projects and exploring modern development tools.
+- 🤖 Exploring AI-assisted development and practical AI applications.
+- 🎯 Working toward becoming a skilled software engineer.
 
-## الأدوات واللغات
-![HTML](https://img.shields.io/badge/HTML-–-orange?logo=html5&logoColor=white&labelColor=orange)
-![CSS](https://img.shields.io/badge/CSS-–-blue?logo=css3&logoColor=white&labelColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-–-yellow?logo=javascript&logoColor=black&labelColor=yellow)
+🛠️ Areas of Interest
 
-## مشاريعي المميزة
-- 🔗 [اسم المشروع 1](#) — وصف سطر واحد.
-- 🔗 [اسم المشروع 2](#) — وصف سطر واحد.
+- Software Engineering
+- Artificial Intelligence
+- Web Development
+- Problem Solving
+- Open Source
 
-## إحصائياتي في GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anas3e&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anas3e&layout=compact)
+📌 My Philosophy
 
----
+«Learn deeply. Build consistently. Improve continuously.»
 
-> *آخر تحديث: {{ ضع تاريخ اليوم }}*
+🤝 Let's Connect
+
+I'm open to learning from other developers, collaborating on interesting projects, and contributing to meaningful ideas.
